@@ -1,6 +1,6 @@
-language: php //lang
-php: //all the tests that need to be done
+language: php 
+php: 
   - 5.5
   - 5.4
   - hhvm
-script: phpunit Test.php //file that will be tested
+script: phpunit Test.php
